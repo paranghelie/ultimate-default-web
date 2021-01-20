@@ -11,3 +11,5 @@ commit 5 during squash
 commit 6 durig squash
 
 commit 7 during squash
+
+commit 8
